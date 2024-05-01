@@ -1,4 +1,4 @@
-## Bank Loan Case Study Project
+## Bank Loan Case Study Project - Data Analysis using Excel by Raj Rathod
 
 ### Overview
 Welcome to the Bank Loan Case Study project repository! This project is aimed at analyzing patterns in loan application data to improve decision-making processes in a finance company specializing in lending various types of loans to urban customers. By leveraging Exploratory Data Analysis (EDA), we aim to ensure that capable applicants are not rejected while minimizing the risk of loan defaults.
@@ -14,7 +14,7 @@ Imagine you're a data analyst at a finance company facing the challenge of minim
 
 ### Business Objectives
 The primary objectives of this project are:
-- Identify patterns indicating difficulty in paying loan installments.
+- Identify patterns indicating difficulty in paying loan instalments.
 - Improve decision-making processes, such as loan approval, denial, or adjustment of loan terms.
 
 ### Data Analytics Tasks

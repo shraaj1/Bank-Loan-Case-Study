@@ -1,4 +1,4 @@
-Bank Loan Case Study
+Bank Loan Case Study - My Excel File Link - https://docs.google.com/spreadsheets/d/19LQNdDrnH7HeZ7XlqqIFBMT7kKm04gwW/edit?usp=drive_link&ouid=112575387227847181919&rtpof=true&sd=true
 
 Description:
 Imagine you're a data analyst at a finance company that specializes in lending various types of loans to urban customers. Your company faces a challenge: some customers who don't have a sufficient credit history take advantage of this and default on their loans. Your task is to use Exploratory Data Analysis (EDA) to analyze patterns in the data and ensure that capable applicants are not rejected.
@@ -37,7 +37,7 @@ Hint: Utilize Excel functions like QUARTILE, IQR, and conditional formatting to 
 Graph suggestion: Create box plots or scatter plots to visualize the distribution of numerical variables and highlight the outliers.
 C. Analyze Data Imbalance: Data imbalance can affect the accuracy of the analysis, especially for binary classification problems. Understanding the data distribution is crucial for building reliable models.
 
-Task: Determine if there is data imbalance in the loan application dataset and calculate the ratio of data imbalance using Excel functions.
+Task: Determine if there is a data imbalance in the loan application dataset and calculate the ratio of data imbalance using Excel functions.
 Hint: Utilize Excel functions like COUNTIF and SUM to calculate the proportions of each class. Compare the class frequencies to assess data imbalance.
 Graph suggestion: Create a pie chart or bar chart to visualize the distribution of the target variable and highlight the class imbalance.
 D. Perform Univariate, Segmented Univariate, and Bivariate Analysis: To gain insights into the driving factors of loan default, it is important to conduct various analyses on consumer and loan attributes.

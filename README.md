@@ -33,7 +33,7 @@ The primary objectives of this project are:
 - Explore the presentation slides, project report, and video presentation for detailed insights and findings.
 
 ### Contributors
--@shraaj1 - Project Lead and Analyst
+@shraaj1 - Project Lead and Analyst
 Linkedin ID - https://www.linkedin.com/in/rajrathod54321/
 E-mail ID - rajr65037@gmail.com
 
